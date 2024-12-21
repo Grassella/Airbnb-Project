@@ -11,7 +11,15 @@
     "start": "npm start --prefix backend",
     "build": "npm run --prefix backend build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grassella/Airbnb-Project.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grassella/Airbnb-Project/issues"
+  },
+  "homepage": "https://github.com/Grassella/Airbnb-Project#readme"
 }
